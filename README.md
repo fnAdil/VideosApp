@@ -1,8 +1,6 @@
 # VideosApp
 
-
-
-https://user-images.githubusercontent.com/75196423/185558836-7576bcea-f21f-461e-8ee6-d85b0da03f91.mov
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/75196423/185560449-ac7560e6-9990-4e36-9a70-853b2ecc0710.gif)
 
 
 
