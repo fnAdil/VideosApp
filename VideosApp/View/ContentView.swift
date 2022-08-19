@@ -36,7 +36,7 @@ struct ContentView: View {
                                     VideoCard(video: video)
                                 }
                             }.padding()
-                        }
+                        }.padding()
 
                     }.frame(maxWidth: .infinity)
                 }
