@@ -1,8 +1,7 @@
 # VideosApp
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/75196423/185560449-ac7560e6-9990-4e36-9a70-853b2ecc0710.gif)
 
-
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/75196423/185561322-7395341a-8568-434a-b252-e15dfc4979a4.gif)
 
 <img src="ss/1.png" alt="Register Page" width="400"/>
 
